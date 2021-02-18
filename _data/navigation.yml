@@ -2,7 +2,5 @@
 main:
   - title: "Publications"
     url: /publications/
-  - title: "People"
-    url: /people/
   - title: "Posts"
     url: /year-archive/
