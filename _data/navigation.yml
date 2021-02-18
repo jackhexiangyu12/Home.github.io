@@ -6,3 +6,5 @@ main:
     url: https://xmudm.github.io/people/
   - title: "Posts"
     url: /year-archive/
+  - title: "Teaching"
+    url: /teaching/
