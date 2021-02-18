@@ -1,12 +1,11 @@
-```
 ---
 layout: single
-class: wide
+classes: wide
 title: "Publications"
 permalink: /publications/
 author_profile: false
 ---
-```
+
 
 ```
 2020
