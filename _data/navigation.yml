@@ -3,8 +3,6 @@ main:
   - title: "Publications"
     url: /publications/
   - title: "People"
-    url: /people/
+    url: https://xmudm.github.io/people/
   - title: "Posts"
     url: /year-archive/
- - title: "Teaching"
-    url: /teaching/

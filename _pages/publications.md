@@ -10,13 +10,14 @@ author_profile: false
 
 # 2020
 
-*Chen Lin, Zhichao Ouyang, Hui Li, Zhenghua Huang*. Preserve Integrity in Realtime Event Summarization. Transactions on Knowledge Discovery from Data. To appear [pdf](https://XMUDM.github.io/files/TKDD-IAEA.pdf) [code](https://github.com/XMUDM/IAEA)
+Chen Lin, Zhichao Ouyang, Hui Li, Zhenghua Huang. *Preserve Integrity in Realtime Event Summarization. Transactions on Knowledge Discovery from Data*. To appear [pdf](https://XMUDM.github.io/files/TKDD-IAEA.pdf) [code](https://github.com/XMUDM/IAEA)
 
-*Chen Lin, Dugang Liu, Yanghua Xiao, Hanghang Tong*. Spiral of Silence and Its Application in Recommender Systems. Transactions on Knowledge and Data Engineering. To appear [pdf](https://www.computer.org/csdl/journal/tk/5555/01/09158530/1m1eB9HLORa)  [code](https://github.com/XMUDM/TKDE19-Spiral-of-Silence)
+Chen Lin, Dugang Liu, Yanghua Xiao, Hanghang Tong. *Spiral of Silence and Its Application in Recommender Systems*. Transactions on Knowledge and Data Engineering. To appear [pdf](https://www.computer.org/csdl/journal/tk/5555/01/09158530/1m1eB9HLORa)  [code](https://github.com/XMUDM/TKDE19-Spiral-of-Silence)
 
-*Chen Lin, Si Chen, Hui Li, Yanghua Xiao, Lianyun Li, Qian Yang*. Attacking Recommender Systems with Augmented User Profiles. CIKM 2020: 855-864.[pdf](https://dl.acm.org/doi/10.1145/3340531.3411884) [code](https://github.com/XMUDM/AUSH)
 
-*Wenqiang Chen, Lizhang Zhan, Yuanlong Ci, Minghua Yang, Chen Lin, Dugang Liu*. FLEN: Leveraging Field for Scalable CTR Prediction  DLP-KDD 2020 
+Chen Lin, Si Chen, Hui Li*, Yanghua Xiao, Lianyun Li, Qian Yang. *Attacking Recommender Systems with Augmented User Profiles*. CIKM 2020: 855-864.[pdf](https://dl.acm.org/doi/10.1145/3340531.3411884) [code](https://github.com/XMUDM/AUSH)
+
+Wenqiang Chen, Lizhang Zhan, Yuanlong Ci, Minghua Yang, Chen Lin, Dugang Liu. *FLEN: Leveraging Field for Scalable CTR Prediction*  DLP-KDD 2020 
 
 *Yunsen Hong, Hui Li, Xiaoli Wang, Chen Lin*. DEAMER: a Deep Exposure-Aware Multimodal Content-based Recommendation System. DASFAA 2020: 621-637. [pdf](https://link.springer.com/chapter/10.1007%2F978-3-030-59419-0_38) [code](https://github.com/XMUDM/Deamer)
 
@@ -29,7 +30,6 @@ _ _ _
 # 2019
 
 *Yuyou Weng, Chen Lin, Xiangxiang Zeng, Xiangrong Liu, Yun Liang, and Hui Li*. Drug Target Interaction Prediction using Multi-task Learning and Co-attention. BIBM 2019:528-533
-
 *Lin Chen, Ni Sheng, Liang Yun, Zeng Xiangxiang, Liu Xiangrong*. Learning to Predict Drug Target Interaction From Missing Not at Random Labels. IEEE Trans Nanobioscience. 2019 Jul;18(3):353-359 [pdf](https://pubmed.ncbi.nlm.nih.gov/30969929/) [code](https://github.com/XMUDM/FNML)
 
 *Yuan Lin, Yinyin Cai, Juan Liu, Chen Lin, Xiangrong Liu*: An advanced approach to identify antimicrobial peptides and their function types for penaeus through machine learning strategies. BMC Bioinformatics 20-S(8): 291:1-291:10, 2019 
