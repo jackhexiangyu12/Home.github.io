@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /
 title: "WELCOME"
 excerpt: "About me"
@@ -9,6 +10,6 @@ redirect_from:
   - /about.html
 ---
 
-This is the home page of Data Mining Group at Xiamen University, China. We are a team of faculty and students who work towards Profitable, Unbiased, Relevant and Efficient (PURE) information filtering systems to process massive data. Our work covers areas such as recommender systems, information retrieval, text summarization and machine learning driven database technologies. 
+This is the home page of Data Mining Group at Xiamen University, China. We are a team of faculty and students who work towards Profitable, Unbiased, Relevant and Efficient (PURE) information filtering systems to process massive data. Our work covers areas such as recommender systems, information retrieval, text summarization and machine learning driven data managements. 
 
 
