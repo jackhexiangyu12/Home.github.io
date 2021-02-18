@@ -8,7 +8,7 @@ author_profile: false
 comments: true
 ---
 
-本科生: [Data Mining and Knowledge Discovery](https://XMUDM.github.io/teaching/kdd) [Machine Learning](https://XMUDM.github.io/teaching/ml)  [Thesis](https://XMUDM.github.io/teaching/thesis) 
+本科生： [数据挖掘与知识发现](https://XMUDM.github.io/teaching/kdd) [网络信息内容安全](https://XMUDM.github.io/teaching/ml)  [本科生毕设](https://XMUDM.github.io/teaching/thesis) 
 
-Graduate students: [Recruiting](https://XMUDM.github.io/teaching/recruit) [Orientation](https://XMUDM.github.io/teaching/orientation) 
+研究生： [招生](https://XMUDM.github.io/teaching/recruit) [新生指导](https://XMUDM.github.io/teaching/orientation) 
 
