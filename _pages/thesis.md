@@ -265,7 +265,7 @@ CNN模型近年来成功应用在图像识别中[2,3,4,5]。
 - 图片不要设计得太空，应该以能紧凑的占满3/4的页面宽度为宜。一般情况表格里不断行。图表不跨页。
 - 对齐。表头、图表标题居中。同一张表格里的对齐方式应该一致，没有出现一张表格里某些格子左对齐，某些格子右对齐。
 
-## 参考文献
+# 参考文献
 
 - 参考文献严格按照 GB/T 7714－2005规则，详见[厦大本科毕业论文规范](https://jwc.xmu.edu.cn/_upload/article/files/47/3f/8bdd666a4d8db5a68d6c39b811fe/610a5944-2b34-44d6-bc62-95ebf3eb9162.pdf)。
 - 可以使用文献管理工具+正确的样式+科研数据库得到的引用文件。特别提醒不要用百度查！不用Google Scholar查！很容易引用不正确。应该用[图书馆主页](www.lib.xmu.edu.cn)进去的科研数据库，包括IEEE Explorer, ACM DL，ELSEVIER等，也可以用[DBLP]( [https://dblp.uni-trier.de](https://dblp.uni-trier.de/)) 。
