@@ -1,3 +1,12 @@
+---
+layout: single
+classes: wide
+title: "People"
+permalink: /people/
+locale: "zh-CN"
+author_profile: false
+---
+
 <table>
     <tr>
     	<td><center><img src="https://github.com/XMUDM/XMUDM.github.io/blob/master/image/zhudadi.jpg">朱大地</center></td>
