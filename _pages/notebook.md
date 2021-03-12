@@ -3,6 +3,7 @@ layout: single
 classes: wide
 title: "People"
 permalink: /notebook/
+locale: "zh-CN"
 author_profile: false
 ---
 
