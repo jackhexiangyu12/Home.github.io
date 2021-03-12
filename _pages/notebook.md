@@ -1,3 +1,11 @@
+---
+layout: single
+classes: wide
+title: "People"
+permalink: /notebook/
+author_profile: false
+---
+
 ## 2020年厦门大学计算机科学系研究生学术交流论坛
 
 > 2020年11月14 日上午8:30-12:00	厦门大学海韵园物理机电大楼117教室
