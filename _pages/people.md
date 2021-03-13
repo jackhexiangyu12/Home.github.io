@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: "People"
+title: "Member"
 permalink: /people/
 locale: "zh-CN"
 author_profile: false
