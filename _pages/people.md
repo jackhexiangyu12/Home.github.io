@@ -21,7 +21,7 @@ author_profile: false
         Master Students
     </h3>
     <tr>
-        <td width="250"><center><img src="/image/chensi.jpg" width = "200" height = "200"><br>陈思（2018级）<br>推荐系统攻击</center></td>
+        <td width="250"><center><img src="/image/chensi.jpg" width = "200" height = "200"><br>陈思（2018级）<br>推荐系统攻击<br>阿里巴巴</center></td>
         <td width="250"><center><img src="/image/hongyunsen.jpg" width = "200" height = "200"><br>洪云森（2018级）<br>推荐系统、可解释性<br>国家电网</center></td>
         <td width="250"><center><img src="/image/ouyangzhichao.jpg" width = "200" height = "200"><br>欧阳智超（2018级）<br>文本生成、文本摘要<br>北京快手</center></td>
     </tr>
