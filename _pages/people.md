@@ -32,7 +32,7 @@ author_profile: false
     </tr>
     <tr>
         <td><center><img src="/image/fengjiadong.jpg" width = "200" height = "200"><br>冯嘉东（2020级）<br>数据库</center></td>
-        <td><center><img src="/image/fanshuai.jpg" width = "200" height = "200"><br>范帅（2020级）<br>序列推荐</center></td>
+        <td><center><img src="/image/fanshuai.jpg" width = "200" height = "200"><br>范帅（2020级）<br>知识图谱与事件预测</center></td>
         <td><center><img src="/image/xuzequan.jpg" width = "200" height = "200"><br>许泽铨（2020级）<br>数据库</center></td>      
     </tr>
     <tr>
