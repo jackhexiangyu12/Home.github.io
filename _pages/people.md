@@ -37,11 +37,8 @@ author_profile: false
     </tr>
     <tr>
         <td><center><img src="/image/zhudadi.jpg" width = "200" height = "200"><br>朱大地（2020级）<br>推荐系统攻击</center></td>
-    	<td><center><img src="/image/chenjianqiang.jpg" width = "200" height = "200"><br>陈建强（2021级）<br>推荐系统</center></td>
         <td><center><img src="/image/xuguipeng.jpg" width = "200" height = "200"><br>徐桂鹏（2021级）<br>推荐系统</center></td>
-    </tr>
-    <tr>
-        <td><center><img src="/image/zengmeifang.jpg" width = "200" height = "200"><br>曾梅芳（2021级）<br>推荐系统</center></td>
+      <td><center><img src="/image/zengmeifang.jpg" width = "200" height = "200"><br>曾梅芳（2021级）<br>推荐系统</center></td>
     </tr>
 </table>
 
