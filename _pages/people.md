@@ -24,9 +24,9 @@ author_profile: false
         <td>去向</td>
     </tr>
     <tr>
-        <td align="center">2010</td>
-        <td align="center">林春</td>
-        <td align="center">建设银行</td>
+        <td>2010</td>
+        <td>林春</td>
+        <td>建设银行</td>
     </tr>
     <tr>
         <td align="center">2011</td>
