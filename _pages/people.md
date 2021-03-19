@@ -16,6 +16,13 @@ author_profile: false
         <td><center><img src="/image/lihui.jpg" width = "200" height = "200"><br>李辉<br>助理教授</center></td>
     </tr>
 </table>
+
+| 级别 | 姓名 |   去向   |
+| :--: | :--: | :------: |
+| 2010 | 小明 |   腾讯   |
+| 2010 | 小红 |  党中央  |
+| 2010 | 小刚 | 阿里巴巴 |
+
 <table border="1" width="600">
     <h3>graduate student</h3>
     <tr>
