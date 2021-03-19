@@ -29,13 +29,11 @@ author_profile: false
         <td><center><img src="/image/lilianyun.jpg" width = "200" height = "200"><br>李连芸（2019级）<br>推荐系统、图神经网络</center></td>
         <td><center><img src="/image/liuxinyi.jpg" width = "200" height = "200"><br>柳心怡（2019级）<br>推荐系统的偏差</center></td>
         <td><center><img src="/image/yangqian.jpg" width = "200" height = "200"><br>杨钱（2019级）<br>推荐系统攻击</center></td>
-        
     </tr>
     <tr>
         <td><center><img src="/image/zhuangjunqing.jpg" width = "200" height = "200"><br>庄俊清（2019级）<br>数据库</center></td>
         <td><center><img src="/image/fengjiadong.jpg" width = "200" height = "200"><br>冯嘉东（2020级）<br>数据库</center></td>
-        <td><center><img src="/image/fanshuai.jpg" width = "200" height = "200"><br>范帅（2020级）<br>知识图谱与事件预测</center></td>
-              
+        <td><center><img src="/image/fanshuai.jpg" width = "200" height = "200"><br>范帅（2020级）<br>知识图谱与事件预测</center></td>  
     </tr>
     <tr>
         <td><center><img src="/image/xuzequan.jpg" width = "200" height = "200"><br>许泽铨（2020级）<br>图查询优化</center></td>
