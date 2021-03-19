@@ -26,7 +26,7 @@ author_profile: false
         <td width="250"><center><img src="/image/ouyangzhichao.jpg" width = "200" height = "200"><br>欧阳智超（2018级）<br>文本生成、文本摘要<br>北京快手</center></td>
     </tr>
     <tr>
-        <td><center><img src="/image/lilianyun.jpg" width = "200" height = "200"><br>李连芸（2019级）<br>序列推荐</center></td>
+        <td><center><img src="/image/lilianyun.jpg" width = "200" height = "200"><br>李连芸（2019级）<br>推荐系统、图神经网络</center></td>
         <td><center><img src="/image/liuxinyi.jpg" width = "200" height = "200"><br>柳心怡（2019级）<br>推荐系统的偏差</center></td>
         <td><center><img src="/image/yangqian.jpg" width = "200" height = "200"><br>杨钱（2019级）<br>推荐系统攻击</center></td>
         
