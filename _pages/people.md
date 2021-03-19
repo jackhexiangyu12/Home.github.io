@@ -19,14 +19,14 @@ author_profile: false
 <table border="1" width="600">
     <h3>graduate student</h3>
     <tr>
-        <td>级别</td>
-        <td>姓名</td>
-        <td>去向</td>
+        <td align="center">级别</td>
+        <td align="center">姓名</td>
+        <td align="center">去向</td>
     </tr>
     <tr>
-        <td>2010</td>
-        <td>林春</td>
-        <td>建设银行</td>
+        <td align="center">2010</td>
+        <td align="center">林春</td>
+        <td align="center">建设银行</td>
     </tr>
     <tr>
         <td align="center">2011</td>
