@@ -16,116 +16,28 @@ author_profile: false
         <td><center><img src="/image/lihui.jpg" width = "200" height = "200"><br>李辉<br>助理教授</center></td>
     </tr>
 </table>
-
-| 级别 | 姓名 |   去向   |
-| :--: | :--: | :------: |
-| 2010 | 小明 |   腾讯   |
-| 2010 | 小红 |  党中央  |
-| 2010 | 小刚 | 阿里巴巴 |
-
-<table border="1" width="600">
-    <h3>graduate student</h3>
-    <tr>
-        <td align="center">级别</td>
-        <td align="center">姓名</td>
-        <td align="center">去向</td>
-    </tr>
-    <tr>
-        <td align="center">2010</td>
-        <td align="center">林春</td>
-        <td align="center">建设银行</td>
-    </tr>
-    <tr>
-        <td align="center">2011</td>
-        <td align="center">陈文强</td>
-        <td align="center">美图</td>
-    </tr>
-    <tr>
-        <td align="center">2011</td>
-        <td align="center">孙远帅</td>
-        <td align="center">百度</td>
-    </tr>
-    <tr>
-        <td align="center">2011</td>
-        <td align="center">唐振坤</td>
-        <td align="center">阿里巴巴</td>
-    </tr>
-    <tr>
-        <td align="center">2012</td>
-        <td align="center">余海洋</td>
-        <td align="center">阿里巴巴</td>
-    </tr>
-    <tr>
-        <td align="center">2012</td>
-        <td align="center">潘超</td>
-        <td align="center">银行</td>
-    </tr>
-    <tr>
-        <td align="center">2013</td>
-        <td align="center">李培</td>
-        <td align="center">微软</td>
-    </tr>
-    <tr>
-        <td align="center">2013</td>
-        <td align="center">王菁菁</td>
-        <td align="center">蚂蚁金服</td>
-    </tr>
-    <tr>
-        <td align="center">2014</td>
-        <td align="center">官新均</td>
-        <td align="center">腾讯</td>
-    </tr>
-    <tr>
-        <td align="center">2014</td>
-        <td align="center">刘充</td>
-        <td align="center">百度</td>
-    </tr>
-    <tr>
-        <td align="center">2014</td>
-        <td align="center">蔡敏毅</td>
-        <td align="center">华为</td>
-    </tr>
-    <tr>
-        <td align="center">2015</td>
-        <td align="center">方泽鹏</td>
-        <td align="center">腾讯</td>
-    </tr>
-    <tr>
-        <td align="center">2015</td>
-        <td align="center">黄洁</td>
-        <td align="center">腾讯</td>
-    </tr>
-    <tr>
-        <td align="center">2015</td>
-        <td align="center">杨颖</td>
-        <td align="center">美团</td>
-    </tr>
-    <tr>
-        <td align="center">2016</td>
-        <td align="center">林灵婷</td>
-        <td align="center">国家电网</td>
-    </tr>
-    <tr>
-        <td align="center">2016</td>
-        <td align="center">刘杜刚</td>
-        <td align="center">读博</td>
-    </tr>
-    <tr>
-        <td align="center">2017</td>
-        <td align="center">沈晓麟</td>
-        <td align="center">国家电网</td>
-    </tr>
-    <tr>
-        <td align="center">2017</td>
-        <td align="center">王云杰</td>
-        <td align="center">国家电网</td>
-    </tr>
-    <tr>
-        <td align="center">2017</td>
-        <td align="center">翁宇游</td>
-        <td align="center">国家电网</td>
-    </tr>
-</table>
+<h3>Graduate Student</h3>
+| 级别 |  姓名  |   去向   |
+| :--: | :----: | :------: |
+| 2010 |  林春  | 建设银行 |
+| 2011 | 陈文强 |   美图   |
+| 2011 | 孙远帅 |   百度   |
+| 2011 | 唐振坤 | 阿里巴巴 |
+| 2012 | 余海洋 | 阿里巴巴 |
+| 2012 |  潘超  |   银行   |
+| 2013 |  李培  |   微软   |
+| 2013 | 王菁菁 | 蚂蚁金服 |
+| 2014 | 官新均 |   腾讯   |
+| 2014 |  刘充  |   百度   |
+| 2014 | 蔡敏毅 |   华为   |
+| 2015 | 方泽鹏 |   腾讯   |
+| 2015 |  黄洁  |   腾讯   |
+| 2015 |  杨颖  |   美团   |
+| 2016 | 林灵婷 | 国家电网 |
+| 2016 | 刘杜刚 |   读博   |
+| 2017 | 沈晓麟 | 国家电网 |
+| 2017 | 王云杰 | 国家电网 |
+| 2017 | 翁宇游 | 国家电网 |
 <table>
     <h3>
         Master Students
