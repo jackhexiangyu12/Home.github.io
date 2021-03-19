@@ -16,6 +16,109 @@ author_profile: false
         <td><center><img src="/image/lihui.jpg" width = "200" height = "200"><br>李辉<br>助理教授</center></td>
     </tr>
 </table>
+<table border="1" width="600">
+    <h3>graduate student</h3>
+    <tr>
+        <td align="center">级别</td>
+        <td align="center">姓名</td>
+        <td align="center">去向</td>
+    </tr>
+    <tr>
+        <td align="center">2010</td>
+        <td align="center">林春</td>
+        <td align="center">建设银行</td>
+    </tr>
+    <tr>
+        <td align="center">2011</td>
+        <td align="center">陈文强</td>
+        <td align="center">美图</td>
+    </tr>
+    <tr>
+        <td align="center">2011</td>
+        <td align="center">孙远帅</td>
+        <td align="center">百度</td>
+    </tr>
+    <tr>
+        <td align="center">2011</td>
+        <td align="center">唐振坤</td>
+        <td align="center">阿里巴巴</td>
+    </tr>
+    <tr>
+        <td align="center">2012</td>
+        <td align="center">余海洋</td>
+        <td align="center">阿里巴巴</td>
+    </tr>
+    <tr>
+        <td align="center">2012</td>
+        <td align="center">潘超</td>
+        <td align="center">银行</td>
+    </tr>
+    <tr>
+        <td align="center">2013</td>
+        <td align="center">李培</td>
+        <td align="center">微软</td>
+    </tr>
+    <tr>
+        <td align="center">2013</td>
+        <td align="center">王菁菁</td>
+        <td align="center">蚂蚁金服</td>
+    </tr>
+    <tr>
+        <td align="center">2014</td>
+        <td align="center">官新均</td>
+        <td align="center">腾讯</td>
+    </tr>
+    <tr>
+        <td align="center">2014</td>
+        <td align="center">刘充</td>
+        <td align="center">百度</td>
+    </tr>
+    <tr>
+        <td align="center">2014</td>
+        <td align="center">蔡敏毅</td>
+        <td align="center">华为</td>
+    </tr>
+    <tr>
+        <td align="center">2015</td>
+        <td align="center">方泽鹏</td>
+        <td align="center">腾讯</td>
+    </tr>
+    <tr>
+        <td align="center">2015</td>
+        <td align="center">黄洁</td>
+        <td align="center">腾讯</td>
+    </tr>
+    <tr>
+        <td align="center">2015</td>
+        <td align="center">杨颖</td>
+        <td align="center">美团</td>
+    </tr>
+    <tr>
+        <td align="center">2016</td>
+        <td align="center">林灵婷</td>
+        <td align="center">国家电网</td>
+    </tr>
+    <tr>
+        <td align="center">2016</td>
+        <td align="center">刘杜刚</td>
+        <td align="center">读博</td>
+    </tr>
+    <tr>
+        <td align="center">2017</td>
+        <td align="center">沈晓麟</td>
+        <td align="center">国家电网</td>
+    </tr>
+    <tr>
+        <td align="center">2017</td>
+        <td align="center">王云杰</td>
+        <td align="center">国家电网</td>
+    </tr>
+    <tr>
+        <td align="center">2017</td>
+        <td align="center">翁宇游</td>
+        <td align="center">国家电网</td>
+    </tr>
+</table>
 <table>
     <h3>
         Master Students
