@@ -17,6 +17,7 @@ author_profile: false
     </tr>
 </table>
 <h3>Graduate Student</h3>
+
 | 级别 |  姓名  |   去向   |
 | :--: | :----: | :------: |
 | 2010 |  林春  | 建设银行 |
@@ -38,6 +39,7 @@ author_profile: false
 | 2017 | 沈晓麟 | 国家电网 |
 | 2017 | 王云杰 | 国家电网 |
 | 2017 | 翁宇游 | 国家电网 |
+
 <table>
     <h3>
         Master Students
