@@ -12,8 +12,8 @@ author_profile: false
         Faculty
     </h3>
     <tr>
-        <td><center><img src="/image/linchen.jpg" width = "200" height = "200"><br>林琛<br>教授</center></td>
-        <td><center><img src="/image/lihui.jpg" width = "200" height = "200"><br>李辉<br>助理教授</center></td>
+        <td><center><img src="/image/linchen.jpg" width = "200" height = "200"><br>林琛<br>教授<br>chenlin@xmu.edu.cn</center></td>
+        <td><center><img src="/image/lihui.jpg" width = "200" height = "200"><br>李辉<br>助理教授<br>hui@xumu.edu.cn</center></td>
     </tr>
 </table>
 
