@@ -8,12 +8,19 @@ author_profile: false
 
 # 2021
 *Chao Wang, Ying Ju, Quan Zou, Chen Lin*. DeepAc4C: A convolutional neural network model with hybrid features composed of physico-chemical patterns and distributed representation information for identification of N4‑acetylcytidine in mRNA. Bioinformatics, btab611, https://doi.org/10.1093/bioinformatics/btab611 
+
 *Xiaoqing Ru, Xiucai Ye, Tetsuya Sakurai, Quan Zou, Lei Xu, Chen Lin*. Current status and future prospects of drug–target interaction prediction. Briefings in Functional Genomics, elab031, https://doi.org/10.1093/bfgp/elab031
+
 *Yun Liang, Jian Zhang, Mei-hua Wang, Chen Lin, Jun Xiao*. Multi-features guided robust visual tracking.  Multim. Tools Appl. 80(11):16367-16395 
+
 *Chen Lin, Xinyi Liu, Guipeng Xv, Hui Li*. Mitigating Sentiment Bias for Recommender Systems. SIGIR 2021: 31-40 
+
 *Lin, Chen, Chen Si, Gao Min, Li, Hui*. Shilling Black-box Recommender Systems by Learning to Generate Fake User Profiles. IEEE Transactions on Neural Networks and Learning Systems. Under Review
+
 *Hui Li, Lianyun Li, Chen Lin*. SPEX: A Generic Framework for Enhancing Neural Social Recommendation. Transactions on Information Systems. to appear. doi: 10.1145/3473338
+
 *Chen Lin, Zhichao Ouyang, Junqing Zhuang, Jianqiang Chen, Hui Li, Rongxin Wu*. Improving Code Summarization with Block-wise Abstract Syntax Tree Splitting. ICPC 2021: 184-195 
+
 *Yunsen Hong, Hui Li, Yanghua Xiao, Ryan McBride, Chen Lin*. SILVER: Generating Persuasive Chinese Product Pitch. PAKDD 2021: 652-663 
 
 _ _ _
