@@ -5,7 +5,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: false
 ---
-# 2021
+# 2022
 *Xinyi Liu, Wanxian Guan, Lianyun Li, Hui Li, Chen Lin, Xubin Li, Si Chen, Jian Xu, Hongbo Deng, Bo Zheng*. Pretraining Representations of Multi-modal Multi-query E-commerce Search. KDD 2022 (to appear)
 
 *Chen Lin, Dugang Liu, Yanghua Xiao, Hanghang Tong*. Spiral of Silence and Its Application in Recommender Systems. Transactions on Knowledge and Data Engineering 34(6)：2934-2947 [pdf](https://www.computer.org/csdl/journal/tk/5555/01/09158530/1m1eB9HLORa)  [code](https://github.com/XMUDM/TKDE19-Spiral-of-Silence)
