@@ -10,7 +10,7 @@ author_profile: false
 
 *Chen Lin, Dugang Liu, Yanghua Xiao, Hanghang Tong*. Spiral of Silence and Its Application in Recommender Systems. Transactions on Knowledge and Data Engineering 34(6)：2934-2947 [pdf](https://www.computer.org/csdl/journal/tk/5555/01/09158530/1m1eB9HLORa)  [code](https://github.com/XMUDM/TKDE19-Spiral-of-Silence)
 
-*Chen Lin, Junqing Zhuang, Jiadong Feng, Hui Li, Xuanhe Zhou, Guoliang Li*. Adaptive Code Learning for Spark Configuration Tuning. ICDE 2022 (to appear）
+*Chen Lin, Junqing Zhuang, Jiadong Feng, Hui Li, Xuanhe Zhou, Guoliang Li*. Adaptive Code Learning for Spark Configuration Tuning. ICDE 2022: 1996-2008 [pdf]() [code](https://github.com/XMUDM/LITE)
 
 *Guipeng Xv, Chen Lin*, Hui Li, Jinsong Su, Weiyao Ye and Yewang Chen*. Neutralizing Popularity Bias in Recommendation Models. SIGIR 2022 (to appear)
 
