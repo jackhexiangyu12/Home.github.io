@@ -12,7 +12,7 @@ author_profile: false
 
 *Chen Lin, Junqing Zhuang, Jiadong Feng, Hui Li, Xuanhe Zhou, Guoliang Li*. Adaptive Code Learning for Spark Configuration Tuning. ICDE 2022: 1996-2008 [pdf]() [code](https://github.com/XMUDM/LITE)
 
-*Guipeng Xv, Chen Lin*, Hui Li, Jinsong Su, Weiyao Ye and Yewang Chen*. Neutralizing Popularity Bias in Recommendation Models. SIGIR 2022 (to appear)
+*Guipeng Xv, Chen Lin, Hui Li, Jinsong Su, Weiyao Ye and Yewang Chen*. Neutralizing Popularity Bias in Recommendation Models. SIGIR 2022 (to appear)
 
 *Juan Ni, Zhenhua Huang, Yang Hu, Chen Lin*. A two-stage embedding model for recommendation with multimodal auxiliary information. Inf. Sci. 582: 22-37 
 
@@ -20,13 +20,13 @@ author_profile: false
 
 *Mengting Niu, Ying Ju, Chen Lin, Quan Zou*. Characterizing Viral circRNAs and their Application in Identifying CircRNAs in Viruses. Briefings in Bioinformatics. 2022, 23(1): bbab404
 
-*Zequan Xu, Siqiang Luo, Jieming Shi, Hui Li, Chen Lin, Qihang Sun and Shaofeng Hu*. Efficiently Answering k-hop Reachability Queries in Large Dynamic Graphs for Fraud Feature Extraction. under review
+*Zequan Xu, Siqiang Luo, Jieming Shi, Hui Li, Chen Lin, Qihang Sun and Shaofeng Hu*. Efficiently Answering k-hop Reachability Queries in Large Dynamic Graphs for Fraud Feature Extraction. MDM 2022 (to appear)
 
 *Hui Li, Lianyun Li, Qihang Sun, Chen Lin, Shaofeng Hu and Rongrong Ji*. Self-supervised Graph Representation Learning for Black Market Account Detection in MMMA. under review
 
-Zhenhua Huang, Shunzhi Yang, Zheng Gong, Abdullah Abusorrah, Chen Lin, Zhen Huang. Making Accurate Object Detection at the Edge: Review and New Approach. Artificial Intelligence Review. 
+*Zhenhua Huang, Shunzhi Yang, Zheng Gong, Abdullah Abusorrah, Chen Lin, Zhen Huang*. Making Accurate Object Detection at the Edge: Review and New Approach. Artificial Intelligence Review. 
 
-Z. Huang, Y. Liu, C. Zhan, C. Lin, W. Cai and Y. Chen, "A Novel Group Recommendation Model With Two-Stage Deep Learning," in IEEE Transactions on Systems, Man, and Cybernetics: Systems, doi: 10.1109/TSMC.2021.3131349.
+*Z. Huang, Y. Liu, C. Zhan, C. Lin, W. Cai and Y. Chen". A Novel Group Recommendation Model With Two-Stage Deep Learning," in IEEE Transactions on Systems, Man, and Cybernetics: Systems, doi: 10.1109/TSMC.2021.3131349.
 
 _ _ _
 
