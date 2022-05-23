@@ -1,12 +1,14 @@
 ---
 layout: single
 classes: wide
-title: "Recruit"
+title: "招生"
 permalink: /teaching/recruit/
 author_profile: false
 ---
 
-同学：您好！很高兴您对我们实验室的研究感兴趣。如果您想加入我们实验室，请花2分钟时间，看完下列事项说明。
+同学：
+
+您好！很高兴您对我们实验室的研究感兴趣。如果您想加入我们实验室，请花2分钟时间，看完下列事项说明。
 
 # 什么时候联系我们？
 
