@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: "招生"
+title: "新生指导"
 permalink: /teaching/orientation/
 author_profile: false
 ---
