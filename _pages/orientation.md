@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 title: "招生"
-permalink: /teaching/recruit/
+permalink: /teaching/orientation/
 author_profile: false
 ---
 # 资料（及线路图） 
