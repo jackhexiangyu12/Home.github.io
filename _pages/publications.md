@@ -6,6 +6,8 @@ permalink: /publications/
 author_profile: false
 ---
 # 2022
+*Lin, Chen, Chen Si, Gao Min, Li, Hui*. Shilling Black-box Recommender Systems by Learning to Generate Fake User Profiles. IEEE Transactions on Neural Networks and Learning Systems. (to appear)
+
 *Xinyi Liu, Wanxian Guan, Lianyun Li, Hui Li, Chen Lin, Xubin Li, Si Chen, Jian Xu, Hongbo Deng, Bo Zheng*. Pretraining Representations of Multi-modal Multi-query E-commerce Search. KDD 2022 (to appear)
 
 *Chen Lin, Dugang Liu, Yanghua Xiao, Hanghang Tong*. Spiral of Silence and Its Application in Recommender Systems. Transactions on Knowledge and Data Engineering 34(6)：2934-2947 [pdf](https://www.computer.org/csdl/journal/tk/5555/01/09158530/1m1eB9HLORa)  [code](https://github.com/XMUDM/TKDE19-Spiral-of-Silence)
@@ -20,9 +22,9 @@ author_profile: false
 
 *Mengting Niu, Ying Ju, Chen Lin, Quan Zou*. Characterizing Viral circRNAs and their Application in Identifying CircRNAs in Viruses. Briefings in Bioinformatics. 2022, 23(1): bbab404
 
-*Zequan Xu, Siqiang Luo, Jieming Shi, Hui Li, Chen Lin, Qihang Sun and Shaofeng Hu*. Efficiently Answering k-hop Reachability Queries in Large Dynamic Graphs for Fraud Feature Extraction. MDM 2022 (to appear)
+*Zequan Xu, Siqiang Luo, Jieming Shi, Hui Li, Chen Lin, Qihang Sun and Shaofeng Hu*. Efficiently Answering k-hop Reachability Queries in Large Dynamic Graphs for Fraud Feature Extraction. MDM 2022 [code](https://github.com/XMUDM/BREAD)
 
-*Hui Li, Lianyun Li, Qihang Sun, Chen Lin, Shaofeng Hu and Rongrong Ji*. Self-supervised Graph Representation Learning for Black Market Account Detection in MMMA. under review
+
 
 *Zhenhua Huang, Shunzhi Yang, Zheng Gong, Abdullah Abusorrah, Chen Lin, Zhen Huang*. Making Accurate Object Detection at the Edge: Review and New Approach. Artificial Intelligence Review. 
 
@@ -48,8 +50,6 @@ _ _ _
 *Yun Liang, Jian Zhang, Mei-hua Wang, Chen Lin, Jun Xiao*. Multi-features guided robust visual tracking.  Multim. Tools Appl. 80(11):16367-16395 
 
 *Chen Lin, Xinyi Liu, Guipeng Xv, Hui Li*. Mitigating Sentiment Bias for Recommender Systems. SIGIR 2021: 31-40 
-
-*Lin, Chen, Chen Si, Gao Min, Li, Hui*. Shilling Black-box Recommender Systems by Learning to Generate Fake User Profiles. IEEE Transactions on Neural Networks and Learning Systems. Under Review
 
 *Hui Li, Lianyun Li, Chen Lin*. SPEX: A Generic Framework for Enhancing Neural Social Recommendation. Transactions on Information Systems. to appear. doi: 10.1145/3473338
 
