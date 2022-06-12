@@ -6,7 +6,7 @@ permalink: /publications/
 author_profile: false
 ---
 # 2022
-*Lin, Chen, Chen Si, Gao Min, Li, Hui*. Shilling Black-box Recommender Systems by Learning to Generate Fake User Profiles. IEEE Transactions on Neural Networks and Learning Systems. (to appear)
+*Chen Lin, Si Chen, Meifang Zeng, Sheng Zhang, Gao Min, Jiguang Qiu, Hui Li*. Shilling Black-box Recommender Systems by Learning to Generate Fake User Profiles. IEEE Transactions on Neural Networks and Learning Systems. (to appear)
 
 *Xinyi Liu, Wanxian Guan, Lianyun Li, Hui Li, Chen Lin, Xubin Li, Si Chen, Jian Xu, Hongbo Deng, Bo Zheng*. Pretraining Representations of Multi-modal Multi-query E-commerce Search. KDD 2022 (to appear)
 
