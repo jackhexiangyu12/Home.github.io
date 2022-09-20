@@ -28,7 +28,7 @@ author_profile: false
 
 *Mengting Niu, Ying Ju, Chen Lin, Quan Zou*. Characterizing Viral circRNAs and their Application in Identifying CircRNAs in Viruses. Briefings in Bioinformatics. 2022, 23(1): bbab404
 
-*Zequan Xu, Siqiang Luo, Jieming Shi, Hui Li, Chen Lin, Qihang Sun and Shaofeng Hu*. Efficiently Answering k-hop Reachability Queries in Large Dynamic Graphs for Fraud Feature Extraction. MDM 2022 [pdf](https://XMUDM.github.io/files/Xu2022Efficiently.pdf) [code](https://github.com/XMUDM/BREAD)
+*Zequan Xu, Siqiang Luo, Jieming Shi, Hui Li, Chen Lin, Qihang Sun and Shaofeng Hu*. Efficiently Answering k-hop Reachability Queries in Large Dynamic Graphs for Fraud Feature Extraction. MDM 2022 [pdf](https://XMUDM.github.io/files/XU2022Efficiently.pdf) [code](https://github.com/XMUDM/BREAD)
 
 *Zhenhua Huang, Shunzhi Yang, Zheng Gong, Abdullah Abusorrah, Chen Lin, Zhen Huang*. Making Accurate Object Detection at the Edge: Review and New Approach. Artificial Intelligence Review. 
 
