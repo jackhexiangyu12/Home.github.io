@@ -6,15 +6,21 @@ permalink: /publications/
 author_profile: false
 ---
 # 2022
-*Chen Lin, Si Chen, Meifang Zeng, Sheng Zhang, Gao Min, Jiguang Qiu, Hui Li*. Shilling Black-box Recommender Systems by Learning to Generate Fake User Profiles. IEEE Transactions on Neural Networks and Learning Systems. (to appear)
+*Guipeng Xv, Xinyi Liu, Chen Lin, Hui Li, Chenliang Li, Zhenhua Huang*. Lightweight Unbiased Multi-teacher Ensemble for Review-based Recommendation. CIKM 2022
 
-*Xinyi Liu, Wanxian Guan, Lianyun Li, Hui Li, Chen Lin, Xubin Li, Si Chen, Jian Xu, Hongbo Deng, Bo Zheng*. Pretraining Representations of Multi-modal Multi-query E-commerce Search. KDD 2022 (to appear)
+*Guipeng Xv, Si Chen, Chen Lin, Wanxian Guan, Xingyuan Bu, Xubin Li, Hongbo Deng, Jian Xu, Bo Zheng*. Visual Encoding and Debiasing for CTR Prediction. CIKM 2022
+
+*Zequan Xu, Qihang Sun, Shaofeng Hu, Jiguang Qiu, Chen Lin, Hui Li*. Multi-View Heterogeneous Temporal Graph Neural Network for ''Click Farming'' Detection. PRICAI 2022
+
+*Chen Lin, Si Chen, Meifang Zeng, Sheng Zhang, Gao Min, Jiguang Qiu, Hui Li*. Shilling Black-box Recommender Systems by Learning to Generate Fake User Profiles. IEEE Transactions on Neural Networks and Learning Systems.
+
+*Xinyi Liu, Wanxian Guan, Lianyun Li, Hui Li, Chen Lin, Xubin Li, Si Chen, Jian Xu, Hongbo Deng, Bo Zheng*. Pretraining Representations of Multi-modal Multi-query E-commerce Search. KDD 2022: 3429-3437 [pdf](https://XMUDM.github.io/files/Liu2022Pretraining.pdf) [code](https://github.com/XMUDM/MMsession)
 
 *Chen Lin, Dugang Liu, Yanghua Xiao, Hanghang Tong*. Spiral of Silence and Its Application in Recommender Systems. Transactions on Knowledge and Data Engineering 34(6)：2934-2947 [pdf](https://www.computer.org/csdl/journal/tk/5555/01/09158530/1m1eB9HLORa)  [code](https://github.com/XMUDM/TKDE19-Spiral-of-Silence)
 
-*Chen Lin, Junqing Zhuang, Jiadong Feng, Hui Li, Xuanhe Zhou, Guoliang Li*. Adaptive Code Learning for Spark Configuration Tuning. ICDE 2022: 1996-2008 [pdf]() [code](https://github.com/XMUDM/LITE)
+*Chen Lin, Junqing Zhuang, Jiadong Feng, Hui Li, Xuanhe Zhou, Guoliang Li*. Adaptive Code Learning for Spark Configuration Tuning. ICDE 2022: 1996-2008 [pdf](https://XMUDM.github.io/files/Lin2022Adaptive.pdf) [code](https://github.com/XMUDM/LITE)
 
-*Guipeng Xv, Chen Lin, Hui Li, Jinsong Su, Weiyao Ye and Yewang Chen*. Neutralizing Popularity Bias in Recommendation Models. SIGIR 2022 (to appear)
+*Guipeng Xv, Chen Lin, Hui Li, Jinsong Su, Weiyao Ye and Yewang Chen*. Neutralizing Popularity Bias in Recommendation Models. SIGIR 2022: 2623-2628 [pdf](https://XMUDM.github.io/files/Xv2022Neutralizing.pdf) [code](https://github.com/XMUDM/NeutralizingBias)
 
 *Juan Ni, Zhenhua Huang, Yang Hu, Chen Lin*. A two-stage embedding model for recommendation with multimodal auxiliary information. Inf. Sci. 582: 22-37 
 
@@ -22,9 +28,7 @@ author_profile: false
 
 *Mengting Niu, Ying Ju, Chen Lin, Quan Zou*. Characterizing Viral circRNAs and their Application in Identifying CircRNAs in Viruses. Briefings in Bioinformatics. 2022, 23(1): bbab404
 
-*Zequan Xu, Siqiang Luo, Jieming Shi, Hui Li, Chen Lin, Qihang Sun and Shaofeng Hu*. Efficiently Answering k-hop Reachability Queries in Large Dynamic Graphs for Fraud Feature Extraction. MDM 2022 [code](https://github.com/XMUDM/BREAD)
-
-
+*Zequan Xu, Siqiang Luo, Jieming Shi, Hui Li, Chen Lin, Qihang Sun and Shaofeng Hu*. Efficiently Answering k-hop Reachability Queries in Large Dynamic Graphs for Fraud Feature Extraction. MDM 2022 [pdf](https://XMUDM.github.io/files/Xu2022Efficiently.pdf) [code](https://github.com/XMUDM/BREAD)
 
 *Zhenhua Huang, Shunzhi Yang, Zheng Gong, Abdullah Abusorrah, Chen Lin, Zhen Huang*. Making Accurate Object Detection at the Edge: Review and New Approach. Artificial Intelligence Review. 
 
@@ -49,9 +53,9 @@ _ _ _
 
 *Yun Liang, Jian Zhang, Mei-hua Wang, Chen Lin, Jun Xiao*. Multi-features guided robust visual tracking.  Multim. Tools Appl. 80(11):16367-16395 
 
-*Chen Lin, Xinyi Liu, Guipeng Xv, Hui Li*. Mitigating Sentiment Bias for Recommender Systems. SIGIR 2021: 31-40 
+*Chen Lin, Xinyi Liu, Guipeng Xv, Hui Li*. Mitigating Sentiment Bias for Recommender Systems. SIGIR 2021: 31-40 [pdf](https://XMUDM.github.io/files/Lin2021Mitigating.pdf)
 
-*Hui Li, Lianyun Li, Chen Lin*. SPEX: A Generic Framework for Enhancing Neural Social Recommendation. Transactions on Information Systems. to appear. doi: 10.1145/3473338
+*Hui Li, Lianyun Li, Chen Lin*. SPEX: A Generic Framework for Enhancing Neural Social Recommendation. Transactions on Information Systems :40(2):1-33 [pdf](https://XMUDM.github.io/files/Li2021SPEX.pdf) [code](https://github.com/XMUDM/SPEX)
 
 *Chen Lin, Zhichao Ouyang, Junqing Zhuang, Jianqiang Chen, Hui Li, Rongxin Wu*. Improving Code Summarization with Block-wise Abstract Syntax Tree Splitting. ICPC 2021: 184-195 
 
