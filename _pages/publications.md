@@ -6,6 +6,8 @@ permalink: /publications/
 author_profile: false
 ---
 # 2022
+*Shuai Fan, Chen Lin, Haonan Li, Zhenghao Lin, Jinsong Su, Hang Zhang, Yeyun Gong, JIan Guo and Nan Duan*, Sentiment-Aware Word and Sentence Level Pre-training for Sentiment Analysis. EMNLP 2022
+
 *Guipeng Xv, Xinyi Liu, Chen Lin, Hui Li, Chenliang Li, Zhenhua Huang*. Lightweight Unbiased Multi-teacher Ensemble for Review-based Recommendation. CIKM 2022
 
 *Guipeng Xv, Si Chen, Chen Lin, Wanxian Guan, Xingyuan Bu, Xubin Li, Hongbo Deng, Jian Xu, Bo Zheng*. Visual Encoding and Debiasing for CTR Prediction. CIKM 2022
