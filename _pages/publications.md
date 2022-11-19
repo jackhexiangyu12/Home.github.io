@@ -5,6 +5,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: false
 ---
+# 2023
+*Zijia Wang, Xiangyu He, Kehan Chen, Chen Lin, Jinsong Su*, Code-Aware Cross-Program Transfer Hyperparameter Optimization. AAAI 2023 
+
 # 2022
 *Shuai Fan, Chen Lin, Haonan Li, Zhenghao Lin, Jinsong Su, Hang Zhang, Yeyun Gong, JIan Guo and Nan Duan*, Sentiment-Aware Word and Sentence Level Pre-training for Sentiment Analysis. EMNLP 2022
 
