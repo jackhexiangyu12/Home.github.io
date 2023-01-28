@@ -6,7 +6,11 @@ permalink: /publications/
 author_profile: false
 ---
 # 2023
-*Zijia Wang, Xiangyu He, Kehan Chen, Chen Lin, Jinsong Su*, Code-Aware Cross-Program Transfer Hyperparameter Optimization. AAAI 2023 
+*Zhenghao Lin, Yeyun Gong, Xiao Liu, Hang Zhang, Chen Lin, Anlei Dong, Jian Jiao, Jingwen Lu, Daxin Jiang, Rangan Majumder and Nan Duan*, PROD: Progressive Distillation for Dense Retrieval. The Web Conference 2023 (to appear)
+
+*Zijia Wang, Xiangyu He, Kehan Chen, Chen Lin, Jinsong Su*, Code-Aware Cross-Program Transfer Hyperparameter Optimization. AAAI 2023 (to appear)
+
+_ _ _
 
 # 2022
 *Shuai Fan, Chen Lin, Haonan Li, Zhenghao Lin, Jinsong Su, Hang Zhang, Yeyun Gong, JIan Guo and Nan Duan*, Sentiment-Aware Word and Sentence Level Pre-training for Sentiment Analysis. EMNLP 2022
@@ -40,7 +44,6 @@ author_profile: false
 *Z. Huang, Y. Liu, C. Zhan, C. Lin, W. Cai and Y. Chen". A Novel Group Recommendation Model With Two-Stage Deep Learning," in IEEE Transactions on Systems, Man, and Cybernetics: Systems, doi: 10.1109/TSMC.2021.3131349.
 
 _ _ _
-
 
 # 2021
 
