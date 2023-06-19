@@ -10,23 +10,23 @@ author_profile: false
  
 *Zhenghao Lin, Yeyun Gong, yelong shen, Tong Wu, Zhihao Fan, Chen Lin, Nan Duan, Weizhu Chen*. Text Generation with Diffusion Language Models: A Pre-training Approach with Continuous Paragraph Denoise. ICML 2023 (to appear）
 
-
-*Zhenghao Lin, Yeyun Gong, Xiao Liu, Hang Zhang, Chen Lin, Anlei Dong, Jian Jiao, Jingwen Lu, Daxin Jiang, Rangan Majumder and Nan Duan*, PROD: Progressive Distillation for Dense Retrieval. The Web Conference 2023 (to appear)
+*Zhenghao Lin, Yeyun Gong, Xiao Liu, Hang Zhang, Chen Lin, Anlei Dong, Jian Jiao, Jingwen Lu, Daxin Jiang, Rangan Majumder and Nan Duan*, PROD: Progressive Distillation for Dense Retrieval. The Web Conference 2023:2023:3299-3308  [pdf](https://XMUDM.github.io/files/Lin23PROD.pdf) 
 
 *Zijia Wang, Xiangyu He, Kehan Chen, Chen Lin, Jinsong Su*, Code-Aware Cross-Program Transfer Hyperparameter Optimization. AAAI 2023 (to appear)
 
 _ _ _
 
 # 2022
-*Shuai Fan, Chen Lin, Haonan Li, Zhenghao Lin, Jinsong Su, Hang Zhang, Yeyun Gong, JIan Guo and Nan Duan*, Sentiment-Aware Word and Sentence Level Pre-training for Sentiment Analysis. EMNLP 2022: 4984-4994
+*Shuai Fan, Chen Lin, Haonan Li, Zhenghao Lin, Jinsong Su, Hang Zhang, Yeyun Gong, JIan Guo and Nan Duan*, Sentiment-Aware Word and Sentence Level Pre-training for Sentiment Analysis. EMNLP 2022: 4984-4994 [pdf](https://XMUDM.github.io/files/Fan22SentiWSP.pdf) [code](https://github.com/XMUDM/SentiWSP)
 
-*Guipeng Xv, Xinyi Liu, Chen Lin, Hui Li, Chenliang Li, Zhenhua Huang*. Lightweight Unbiased Multi-teacher Ensemble for Review-based Recommendation. CIKM 2022: 4620-4624
+*Guipeng Xv, Xinyi Liu, Chen Lin, Hui Li, Chenliang Li, Zhenhua Huang*. Lightweight Unbiased Multi-teacher Ensemble for Review-based Recommendation. CIKM 2022: 4620-4624 [pdf](https://XMUDM.github.io/files/Xv23LUME.pdf)
 
 *Guipeng Xv, Si Chen, Chen Lin, Wanxian Guan, Xingyuan Bu, Xubin Li, Hongbo Deng, Jian Xu, Bo Zheng*. Visual Encoding and Debiasing for CTR Prediction. CIKM 2022: 4615-4619
+[pdf](https://XMUDM.github.io/files/Xv22Visual.pdf)
 
-*Zequan Xu, Qihang Sun, Shaofeng Hu, Jiguang Qiu, Chen Lin, Hui Li*. Multi-View Heterogeneous Temporal Graph Neural Network for ''Click Farming'' Detection. PRICAI 2022
+*Zequan Xu, Qihang Sun, Shaofeng Hu, Jiguang Qiu, Chen Lin, Hui Li*. Multi-View Heterogeneous Temporal Graph Neural Network for ''Click Farming'' Detection. PRICAI 2022 [pdf](https://XMUDM.github.io/files/Xu22PRCAI.pdf)
 
-*Chen Lin, Si Chen, Meifang Zeng, Sheng Zhang, Gao Min, Jiguang Qiu, Hui Li*. Shilling Black-box Recommender Systems by Learning to Generate Fake User Profiles. IEEE Transactions on Neural Networks and Learning Systems.
+*Chen Lin, Si Chen, Meifang Zeng, Sheng Zhang, Gao Min, Jiguang Qiu, Hui Li*. Shilling Black-box Recommender Systems by Learning to Generate Fake User Profiles. IEEE Transactions on Neural Networks and Learning Systems. [pdf](https://XMUDM.github.io/files/Lin2023LegUP.pdf)  [code](https://github.com/XMUDM/ShillingAttack)
 
 *Xinyi Liu, Wanxian Guan, Lianyun Li, Hui Li, Chen Lin, Xubin Li, Si Chen, Jian Xu, Hongbo Deng, Bo Zheng*. Pretraining Representations of Multi-modal Multi-query E-commerce Search. KDD 2022: 3429-3437 [pdf](https://XMUDM.github.io/files/Liu2022Pretraining.pdf) [code](https://github.com/XMUDM/MMsession)
 
