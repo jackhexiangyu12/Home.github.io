@@ -10,9 +10,9 @@ author_profile: false
  
 *Zhenghao Lin, Yeyun Gong, yelong shen, Tong Wu, Zhihao Fan, Chen Lin, Nan Duan, Weizhu Chen*. Text Generation with Diffusion Language Models: A Pre-training Approach with Continuous Paragraph Denoise. ICML 2023 (to appear）
 
-*Zhenghao Lin, Yeyun Gong, Xiao Liu, Hang Zhang, Chen Lin, Anlei Dong, Jian Jiao, Jingwen Lu, Daxin Jiang, Rangan Majumder and Nan Duan*, PROD: Progressive Distillation for Dense Retrieval. The Web Conference 2023:2023:3299-3308  [pdf](https://XMUDM.github.io/files/Lin23PROD.pdf) 
+*Zhenghao Lin, Yeyun Gong, Xiao Liu, Hang Zhang, Chen Lin, Anlei Dong, Jian Jiao, Jingwen Lu, Daxin Jiang, Rangan Majumder and Nan Duan*, PROD: Progressive Distillation for Dense Retrieval. The Web Conference 2023:3299-3308  [pdf](https://XMUDM.github.io/files/Lin23PROD.pdf) 
 
-*Zijia Wang, Xiangyu He, Kehan Chen, Chen Lin, Jinsong Su*, Code-Aware Cross-Program Transfer Hyperparameter Optimization. AAAI 2023 (to appear)
+*Zijia Wang, Xiangyu He, Kehan Chen, Chen Lin, Jinsong Su*, Code-Aware Cross-Program Transfer Hyperparameter Optimization. AAAI 2023:10297-10305 [pdf](https://XMUDM.github.io/files/Wang2023Code.pdf) [code](https://github.com/XMUDM/CaTHPO)
 
 _ _ _
 
