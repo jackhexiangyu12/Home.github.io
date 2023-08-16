@@ -12,9 +12,9 @@ author_profile: false
 
 *Yewang Chen, Weiyao Ye, Guipeng Xv, Chen Lin and Xiaomin Zhu*, TCCM: Time and Content-aware Causal Model for Unbiased News Recommendation. CIKM 2023 (to appear)
 
-*Guipeng Xv, Chen Lin, Wanxian Guan, Jinping Gou, Xubin Li, Hongbo Deng, Jian Xu, Bo Zheng*. E-commerce Search via Content Collaborative Graph Neural Network. KDD 2023 (to appear)
+*Guipeng Xv, Chen Lin, Wanxian Guan, Jinping Gou, Xubin Li, Hongbo Deng, Jian Xu, Bo Zheng*. E-commerce Search via Content Collaborative Graph Neural Network. KDD 2023: 2885-2897 [pdf](https://XMUDM.github.io/files/Xv2023KDD.pdf) [code](https://github.com/XMUDM/CC-GNN)
  
-*Zhenghao Lin, Yeyun Gong, yelong shen, Tong Wu, Zhihao Fan, Chen Lin, Nan Duan, Weizhu Chen*. Text Generation with Diffusion Language Models: A Pre-training Approach with Continuous Paragraph Denoise. ICML 2023 (to appear）
+*Zhenghao Lin, Yeyun Gong, yelong shen, Tong Wu, Zhihao Fan, Chen Lin, Nan Duan, Weizhu Chen*. Text Generation with Diffusion Language Models: A Pre-training Approach with Continuous Paragraph Denoise. ICML 2023 (to appear）[pdf](https://XMUDM.github.io/files/lin23icml.pdf) [code](https://github.com/microsoft/ProphetNet/tree/master/GENIE)
 
 *Zhenghao Lin, Yeyun Gong, Xiao Liu, Hang Zhang, Chen Lin, Anlei Dong, Jian Jiao, Jingwen Lu, Daxin Jiang, Rangan Majumder, and Nan Duan*, PROD: Progressive Distillation for Dense Retrieval. The Web Conference 2023:3299-3308  [pdf](https://XMUDM.github.io/files/Lin23PROD.pdf) 
 
