@@ -20,29 +20,6 @@ author_profile: false
     <h3>
         Master Students
     </h3>
-    <tr>
-        <td width="250"><center><img src="/image/chensi.jpg" width = "200" height = "200"><br>陈思（2018级）<br>推荐系统攻击<br>阿里巴巴</center></td>
-        <td width="250"><center><img src="/image/hongyunsen.jpg" width = "200" height = "200"><br>洪云森（2018级）<br>推荐系统、可解释性<br>银保监</center></td>
-        <td width="250"><center><img src="/image/ouyangzhichao.jpg" width = "200" height = "200"><br>欧阳智超（2018级）<br>文本生成、文本摘要<br>北京快手</center></td>
-    </tr>
-    <tr>
-        <td><center><img src="/image/lilianyun.jpg" width = "200" height = "200"><br>李连芸（2019级）<br>推荐系统、图神经网络</center></td>
-        <td><center><img src="/image/liuxinyi.jpg" width = "200" height = "200"><br>柳心怡（2019级）<br>推荐系统的偏差</center></td>
-        <td><center><img src="/image/yangqian.jpg" width = "200" height = "200"><br>杨钱（2019级）<br>推荐系统攻击</center></td>
-    </tr>
-    <tr>
-        <td><center><img src="/image/zhuangjunqing.jpg" width = "200" height = "200"><br>庄俊清（2019级）<br>数据库</center></td>
-        <td><center><img src="/image/fengjiadong.jpg" width = "200" height = "200"><br>冯嘉东（2020级）<br>数据库</center></td>
-        <td><center><img src="/image/fanshuai.jpg" width = "200" height = "200"><br>范帅（2020级）<br>知识图谱与事件预测</center></td>  
-    </tr>
-    <tr>
-        <td><center><img src="/image/xuzequan.jpg" width = "200" height = "200"><br>许泽铨（2020级）<br>图查询优化</center></td>
-        <td><center><img src="/image/zhudadi.jpg" width = "200" height = "200"><br>朱大地（2020级）<br>推荐系统攻击</center></td>
-        <td><center><img src="/image/xuguipeng.jpg" width = "200" height = "200"><br>徐桂鹏（2021级）<br>推荐系统</center></td>
-    </tr>
-    <tr>
-        <td><center><img src="/image/zengmeifang.jpg" width = "200" height = "200"><br>曾梅芳（2021级）<br>推荐系统</center></td>
-    </tr>
 </table>
 
 <h3>Graduate Student</h3>
@@ -68,4 +45,9 @@ author_profile: false
 | 2017 | 沈晓麟 | 国家电网 |
 | 2017 | 王云杰 | 国家电网 |
 | 2017 | 翁宇游 | 国家电网 |
-
+| 2018 | 陈思  | 阿里巴巴 |
+| 2018 | 洪云森 | 银保监 |
+| 2018 | 欧阳智超 | 快手 |
+| 2019 | 柳心怡 | 快手 |
+| 2019 | 庄俊清 | 阿里巴巴 |
+| 2020 | 范帅 | 小米 |
