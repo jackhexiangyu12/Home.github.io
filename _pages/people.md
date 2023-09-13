@@ -108,16 +108,16 @@ author_profile: false
     <tr>
       <td>
 		<div align="center">
-		  <img src="/image/sunjiashuo.jpg" width="150" height="210"/>
+		  <img src="/image/sunjiashuo.jpg" width="150" height="210" style="height: 210;"/>
 		</div>
 		<div align="center" style="font-weight: bold">孙嘉硕</div>
 		<div align="center">2021级</div>
 	  </td>
 	  <td>
 		<div align="center">
-		  <img src="/image/zhouwei.jpg" width="150" height="210"/>
+		  <img src="/image/zhouwei.jpg" width="150" height="210" style="height: 210;"/>
 		</div>
-		<div align="center" style="font-weight: bold">周炜</div>
+		<div align="center" style="font-weight: bold" style="height: 210;">周炜</div>
 		<div align="center">2021级</div>
 	  </td>
     </tr>
@@ -129,28 +129,28 @@ author_profile: false
     <tr>
       <td>
 		<div align="center">
-		  <img src="/image/wangzijia.jpg" width="150" height="210"/>
+		  <img src="/image/wangzijia.jpg" width="150" height="210" style="height: 210;"/>
 		</div>
 		<div align="center" style="font-weight: bold">王子佳</div>
 		<div align="center">2022级</div>
 	  </td>
 	<td>
 		<div align="center">
-		  <img src="/image/zhengyihang.jpg" width="150" height="210"/>
+		  <img src="/image/zhengyihang.jpg" width="150" height="210" style="height: 210;"/>
 		</div>
 		<div align="center" style="font-weight: bold">郑祎航</div>
 		<div align="center">2022级</div>
 	  </td>
 		<td>
 		<div align="center">
-		  <img src="/image/liyang.jpg" width="150" height="210"/>
+		  <img src="/image/liyang.jpg" width="150" height="210" style="height: 210;"/>
 		</div>
 		<div align="center" style="font-weight: bold">黎洋</div>
 		<div align="center">2022级</div>
 	  </td>
 				<td>
 		<div align="center">
-		  <img src="/image/linzhenghao.jpg" width="150" height="210"/>
+		  <img src="/image/linzhenghao.jpg" width="150" height="210" style="height: 210;"/>
 		</div>
 		<div align="center" style="font-weight: bold">林正昊</div>
 		<div align="center">2022级</div>
@@ -164,35 +164,35 @@ author_profile: false
     <tr>
       <td>
 		<div align="center">
-		  <img src="/image/luoyi.jpg" width="150" height="210"/>
+		  <img src="/image/luoyi.jpg" width="150" height="210" style="height: 210;"/>
 		</div>
 		<div align="center" style="font-weight: bold">罗懿</div>
 		<div align="center">2023级</div>
 	  </td>
 	<td>
 	<div align="center">
-		<img src="/image/luoyuxuan.jpg" width="150" height="210"/>
+		<img src="/image/luoyuxuan.jpg" width="150" height="210" style="height: 210;"/>
 	</div>
 	<div align="center" style="font-weight: bold">骆宇轩</div>
 	<div align="center">2023级</div>
 	</td>
     <td>
 		<div align="center">
-		  <img src="/image/lixinyu.jpg" width="150" height="210"/>
+		  <img src="/image/lixinyu.jpg" width="150" height="210" style="height: 210;"/>
 		</div>
 		<div align="center" style="font-weight: bold">李欣钰</div>
 		<div align="center">2023级</div>
 	</td>
 	<td>
 		<div align="center">
-		  <img src="/image/lvxian.jpg" width="150" height="210"/>
+		  <img src="/image/lvxian.jpg" width="150" height="210" style="height: 210;"/>
 		</div>
 		<div align="center" style="font-weight: bold">吕显</div>
 		<div align="center">2023级</div>
 	</td>
 	<td>
 		<div align="center">
-		  <img src="/image/wangqiwen.jpg" width="150" height="210"/>
+		  <img src="/image/wangqiwen.jpg" width="150" height="210" style="height: 210;"/>
 		</div>
 		<div align="center" style="font-weight: bold">王绮雯</div>
 		<div align="center">2023级</div>
