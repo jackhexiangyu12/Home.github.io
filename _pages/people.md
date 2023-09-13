@@ -79,20 +79,20 @@ author_profile: false
     <tr>
       <td>
 		<div align="center">
-		  <img src="/image/baijiaxing.jpg" width="150" height="210"/>
+		  <img src="/image/baijiaxing.jpg" width="150" height="210" style="height: 210;"/>
 		</div>
 		<div align="center" style="font-weight: bold">白佳兴</div>
 		<div align="center">2022级</div>
 	  </td>
       <td>
 		<div align="center">
-		<img src="/image/xuguipeng.jpg" width="150" height="210" alt=""/> </div>
+		<img src="/image/xuguipeng.jpg" width="150" height="210" style="height: 210;" alt=""/> </div>
 		<div align="center" style="font-weight: bold">徐桂鹏</div>
 		<div align="center">2023级</div>
 	  </td>
       <td>
 		<div align="center">
-		<img src="/image/shilinghang.jpg" width="150" height="210" alt=""/> </div>
+		<img src="/image/shilinghang.jpg" width="150" height="210" style="height: 210;" alt=""/> </div>
 		<div align="center" style="font-weight: bold">史凌航</div>
 		<div align="center">2023级</div>
 	  </td>
