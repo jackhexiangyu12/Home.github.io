@@ -113,6 +113,13 @@ author_profile: false
 		<div align="center" style="font-weight: bold">孙嘉硕</div>
 		<div align="center">2021级</div>
 	  </td>
+	  <td>
+		<div align="center">
+		  <img src="/image/zhouwei.jpg" width="150" height="210"/>
+		</div>
+		<div align="center" style="font-weight: bold">周炜</div>
+		<div align="center">2021级</div>
+	  </td>
     </tr>
   </tbody>
 </table>
@@ -146,13 +153,6 @@ author_profile: false
 		  <img src="/image/linzhenghao.jpg" width="150" height="210"/>
 		</div>
 		<div align="center" style="font-weight: bold">林正昊</div>
-		<div align="center">2022级</div>
-	  </td>
-	  <td>
-		<div align="center">
-		  <img src="/image/zhouwei.jpg" width="150" height="210"/>
-		</div>
-		<div align="center" style="font-weight: bold">周炜</div>
 		<div align="center">2022级</div>
 	  </td>
     </tr>
@@ -342,5 +342,5 @@ author_profile: false
 	
 
 </div>
-</div>
+
 
