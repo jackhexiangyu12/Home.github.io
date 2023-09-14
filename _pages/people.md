@@ -173,7 +173,7 @@ author_profile: false
 	<div align="center">
 		<img src="/image/luoyuxuan.jpg" width="150" height="210" style="height: 210;"/>
 	</div>
-	<div align="center" style="font-weight: bold">骆宇轩</div>
+	<div align="center" style="font-weight: bold">骆明轩</div>
 	<div align="center">2023级</div>
 	</td>
     <td>
