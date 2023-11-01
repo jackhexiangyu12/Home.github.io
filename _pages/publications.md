@@ -6,6 +6,10 @@ permalink: /publications/
 author_profile: false
 ---
 # 2023
+*Ante Wang, Linfeng Song, Lifeng Jin, Junfeng Yao, Haitao Mi, Chen Lin, Jinsong Su, Dong Yu*, D2PSG: Multi-Party Dialogue Discourse Parsing as Sequence Generation, in IEEE/ACM Transactions on Audio, Speech, and Language Processing 2023(31):4004-4013 [pdf](https://XMUDM.github.io/files/Wang23D2PSG.pdf)
+
+*Xiaoqing Ru, Quan Zou, Chen Lin*. Optimization of drug-target affinity prediction methods through feature processing schemes. Bioinformatics 2023:btad615 [pdf](https://XMUDM.github.io/files/btad615.pdf)[code](https://github.com/RUXIAOQING964914140/FS_DTA)
+
 *Shuai Fan, Jinping Gou, Yang Li, Jiaxing Bai, Chen Lin, Wanxian Guan, Xubin Li, Hongbo Deng, Jian Xu, and Bo Zheng*, BOMGraph: Boosting Multi-scenario E-commerce Search with a Unified Graph Neural Network. CIKM 2023:514-523 [pdf](https://XMUDM.github.io/files/Fan23BOMGraph.pdf)
 
 *Wei Zhou, Chen Lin, Xuanhe Zhou, Guoliang Li, and Tianqing Wang*, Demonstration of ViTA: Visualizing, Testing and Analyzing Index Advisors. CIKM 2023:5133-5137[pdf](https://XMUDM.github.io/files/Zhou2023ViTA.pdf)
