@@ -16,16 +16,16 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "XMUDM"
+title                    : "Xiangyu He"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Data Mining Group, Xiamen University"
-description              : "Homepage of XMUDM"
-url                      : "https://xmudm.github.io"
+name                     : "Xiangyu He"
+description              : "Homepage of Xiangyu He"
+url                      : "https://jackhexiangyu12.github.io/Home.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "XMUDM/xmudm.github.io"
+repository               : "https://jackhexiangyu12.github.io/Home.github.io/"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/xmudm-logo.png"
+logo                     : ""
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
