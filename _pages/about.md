@@ -19,16 +19,16 @@ Email: hexiangyu941@gmail.com Phone: +86 188 1020 7286 Address: Xiamen Universit
 
 EDUCATION
 
-Xiamen University, Xiamen, China (985 & Double First Class)
+Xiamen University, Xiamen, China __(985 & Double First Class)__
 
 B.E. in Computer Science and Technology July 2020 - July 2024 (expected)
 
-- GPA 89/100 (Rank: 10%)
+- __GPA 89/100 (Rank: 10%)__
 - Major Courses: Discrete Mathematics (91), Probability and Statistics (93), Data Structure (95), Design and Analysis of Algorithms (96), Principles of Operating Systems (96), Principles of Compiler Construction (96), Principles of Database System (93), UNIX System Programming (95), Assembly Language Programming (98)
 
 PUBLICATION
 
-1. Zijia Wang, Xiangyu He, Kehan Chen, Chen Lin, Jinsong Su, “Code-Aware Cross-Program Transfer Hyperpa- rameter Optimization”, AAAI Conference on ArtificialIntelligence (AAAI), 2023 (CCF-A).
+1. Zijia Wang, Xiangyu He, Kehan Chen, Chen Lin, Jinsong Su, “Code-Aware Cross-Program Transfer Hyperpa- rameter Optimization”, AAAI Conference on ArtificialIntelligence (AAAI), 2023 __(CCF-A)__.
 1. Yuxiang Cai, Xin Jiang, Yang Li, Xiangyu He, Chen Lin, “Resolving Power Equipment Data Inconsistency via Heterogeneous Network Alignment”, IEEE Access, vol.11, pp 23980-23988, 2023 (SCI).
 
 HONORS & AWARDS
