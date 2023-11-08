@@ -2,6 +2,7 @@
 layout: single
 permalink: /
 title: "WELCOME"
+permalink: /about/
 excerpt: "About me"
 author_profile: false
 classes: wide
