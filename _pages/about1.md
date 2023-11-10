@@ -23,7 +23,6 @@ Xiamen University, Xiamen, China __(985 & Double First Class)__
 
 B.E. in Computer Science and Technology July 2020 - July 2024 (expected)
 
-- __GPA 89/100 (Rank: 10%)__
 - Major Courses: Discrete Mathematics (91), Probability and Statistics (93), Data Structure (95), Design and Analysis of Algorithms (96), Principles of Operating Systems (96), Principles of Compiler Construction (96), Principles of Database System (93), UNIX System Programming (95), Assembly Language Programming (98)
 
 PUBLICATION
